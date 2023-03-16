@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Shop</nakibluxurystore>
+    <title>Nakibluxurystore</title>
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
     <header>
-      <h1>My Shop</h1>
+      <h1>Nakibluxurystore</h1>
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
